@@ -1,0 +1,6 @@
+num1 = int(input("가장 좋아하는 숫자는?:"))
+print(num1)
+print("숫자를 좋아하는군요.")
+num2 = float(input("가장 좋아하는 숫자는?:"))
+print(num2)
+print("숫자를 좋아하는군요.")
